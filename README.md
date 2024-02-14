@@ -7,8 +7,7 @@ Hier erfahren sie einiges über meine Entwicklung.
 - In der Freizeit lese ich gerne Light Novels.
 
 ## Meine Skills
-- C#
-- HTML & CSS
-- Unity
-- SQL
+- **C#**
+- **HTML & CSS**
+- **SQL**
 
